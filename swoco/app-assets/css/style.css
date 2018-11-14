@@ -1,0 +1,145 @@
+.navbar-brand {
+display: initial;}
+
+.main-menu.menu-dark .navigation {
+    background: #0f527f69;
+}
+
+.main-menu.menu-dark {
+    color: #DCDCDC;
+   background: #0f527f;
+}
+
+.navbar-semi-dark .navbar-header {
+    background: #000000;
+}
+
+.main-menu.menu-dark .navigation>li {
+    padding: 0;
+    border-bottom: 1px solid #00000045;
+}
+
+.main-menu.menu-dark .navigation>li>a {
+    padding: 7px 30px 7px 18px;
+}
+
+.main-menu.menu-dark .navigation li a span {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: n;
+}
+
+.nav-item:hover{ color:white !important;}
+
+body.vertical-layout.vertical-menu-modern.menu-expanded .main-menu {
+    width: 260px;
+	background-image: url(./../../app-assets/images/bg_side.png);
+}
+
+.dash_style h4
+{font-size: 16px;
+    font-weight: bold;
+    color: #0c476e;
+    display: inline-block;
+    padding: 0px 0px 8px 0px;
+    border-bottom: 1px solid #00000014;    transition: all 0.2s;}
+
+
+.dash_style:hover h4{color: #ff9149;;}
+
+	.dash_style .fa{    color: #00a7e8ad;}
+
+.card-view {
+  background: #fff;
+  margin-bottom: 35px;
+  border: none;
+  border-radius: 0;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+  padding: 15px 15px 0;
+  margin-left: -5px;
+  margin-right: -5px; }
+  .card-view.panel > .panel-heading {
+    border: none;
+    color: inherit;
+    border-radius: 0;
+    
+    padding: 20px 15px; }
+    .card-view.panel > .panel-heading.small-panel-heading {
+      padding: 11px 15px; }
+    .card-view.panel > .panel-heading .head-overlay {
+      background: rgba(255, 255, 255, 0.2) none repeat scroll 0 0;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%; }
+    .card-view.panel > .panel-heading .pull-right button {
+      background: #f2f2f2; }
+  .card-view.panel .panel-body {
+    padding: 20px 0 20px; }
+  .card-view.panel.panel-default > .panel-heading {
+          background: #0f527f;
+    color: white;
+    font-size: 25px;}
+	
+  .card-view.panel.panel-default.border-panel > .panel-heading, .card-view.panel.panel-default.panel-tabs > .panel-heading {
+    border-bottom: 1px solid #dedede; }
+  .card-view.panel.panel-default.border-panel .panel-body, .card-view.panel.panel-default.panel-tabs .panel-body {
+    padding-top: 20px; }
+  .card-view.panel.panel-default.panel-tabs > .panel-heading {
+    padding-bottom: 0; }
+  .card-view.panel.panel-default.panel-tabs .nav-tabs {
+    border-bottom: none; }
+    .card-view.panel.panel-default.panel-tabs .nav-tabs > li > a {
+      padding: 0 5px 12px;
+      float: left; }
+  .card-view.panel.panel-info .panel-body, .card-view.panel.panel-success .panel-body, .card-view.panel.panel-warning .panel-body, .card-view.panel.panel-danger .panel-body, .card-view.panel.panel-primary .panel-body, .card-view.panel.panel-inverse .panel-body {
+    padding-top: 20px; }
+  .card-view.panel.fullscreen {
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: fixed;
+    overflow-y: auto;
+    top: 0;
+    width: 100%;
+    z-index: 1040; }
+    .card-view.panel.fullscreen > .panel-heading .pull-right > a, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown {
+      opacity: 0;
+      visibility: hidden; }
+      .card-view.panel.fullscreen > .panel-heading .pull-right > a.full-screen, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown.full-screen {
+        opacity: 1;
+        visibility: visible; }
+        .card-view.panel.fullscreen > .panel-heading .pull-right > a.full-screen i.zmdi-fullscreen::before, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown.full-screen i.zmdi-fullscreen::before {
+          content: "\f16c"; }
+		  
+		p.text-muted.txt-light.text-center.texte {
+    font-size: 27px;
+    font-weight: 600;
+}  
+	.input-group-addon {
+   background: #0f527f none repeat scroll 0 0;
+    border-color: #dedede;
+    border-radius: 0;
+    color: #ffffff;
+}	
+.full_width_all{ width:100%;}  
+		  
+		  
+.sell_bt{      
+     padding: 10px 0px;
+    background-color: white;
+    font-weight: bold;
+    font-size: 22px;
+    margin: 10px 0px;}
+    		  
+		  .h1_note{    padding: 20px 20px;
+    border: 1px solid #52c3ef;
+    font-weight: bold;
+    text-align: center;}
+    
+    
+   

@@ -1,0 +1,283 @@
+.navbar-brand {
+display: initial;}
+
+.main-menu.menu-dark .navigation {
+        
+    box-shadow: 0px 0px 0px #0000001f;
+    transition: all 0.2s;
+}
+
+
+.main-menu.menu-dark .navigation>li:hover {
+    box-shadow: 10px 10px 10px #0000001f;
+}
+
+.header-navbar.navbar-shadow{background-color: #0b3e60;}
+
+.main-menu.menu-dark {
+    color: #DCDCDC;
+   background: #0f527f;
+}
+
+.navbar-semi-dark .navbar-header {
+    background: #000000;
+}
+
+.main-menu.menu-dark .navigation>li {
+       padding: 0;
+    border-bottom: 1px solid #ffffff45;
+}
+
+.main-menu.menu-dark .navigation>li>a {
+    padding: 7px 30px 7px 18px;
+}
+
+.main-menu.menu-dark .navigation li a span {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    font-size: n;
+}
+
+.nav-item:hover{ color:white !important;}
+
+body.vertical-layout.vertical-menu-modern.menu-expanded .main-menu {
+    width: 260px;
+	background-image: url(./../../app-assets/images/bg_side_2.png);
+}
+
+.dash_style h4
+{font-size: 16px;
+    font-weight: bold;
+    color: #0c476e;
+    display: inline-block;
+    padding: 0px 0px 8px 0px;
+    border-bottom: 1px solid #00000014;    transition: all 0.2s;}
+
+
+.dash_style:hover h4{color: #ff9149;;}
+
+	.dash_style .fa{    color: #00a7e8ad;}
+
+.card-view {
+      background: #fff;
+    margin-bottom: 35px;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+    padding: 15px 15px 0;
+    margin-left: -5px;
+    transition: all 0.4s;
+    position: relative;
+    margin-right: -5px; }
+  .card-view.panel > .panel-heading {
+    border: none;
+    color: inherit;
+    border-radius: 0;
+    
+    padding: 20px 15px; }
+    .card-view.panel > .panel-heading.small-panel-heading {
+      padding: 11px 15px; }
+    .card-view.panel > .panel-heading .head-overlay {
+      background: rgba(255, 255, 255, 0.2) none repeat scroll 0 0;
+      height: 100%;
+      left: 0;
+      position: absolute;
+      top: 0;
+      width: 100%; }
+    .card-view.panel > .panel-heading .pull-right button {
+      background: #f2f2f2; }
+  .card-view.panel .panel-body {
+    padding: 20px 0 20px; }
+  .card-view.panel.panel-default > .panel-heading {
+          background: #0f527f;
+    color: white;
+    font-size: 25px;}
+	
+  .card-view.panel.panel-default.border-panel > .panel-heading, .card-view.panel.panel-default.panel-tabs > .panel-heading {
+    border-bottom: 1px solid #dedede; }
+  .card-view.panel.panel-default.border-panel .panel-body, .card-view.panel.panel-default.panel-tabs .panel-body {
+    padding-top: 20px; }
+  .card-view.panel.panel-default.panel-tabs > .panel-heading {
+    padding-bottom: 0; }
+  .card-view.panel.panel-default.panel-tabs .nav-tabs {
+    border-bottom: none; }
+    .card-view.panel.panel-default.panel-tabs .nav-tabs > li > a {
+      padding: 0 5px 12px;
+      float: left; }
+  .card-view.panel.panel-info .panel-body, .card-view.panel.panel-success .panel-body, .card-view.panel.panel-warning .panel-body, .card-view.panel.panel-danger .panel-body, .card-view.panel.panel-primary .panel-body, .card-view.panel.panel-inverse .panel-body {
+    padding-top: 20px; }
+  .card-view.panel.fullscreen {
+    height: 100%;
+    left: 0;
+    margin: 0;
+    position: fixed;
+    overflow-y: auto;
+    top: 0;
+    width: 100%;
+    z-index: 1040; }
+    .card-view.panel.fullscreen > .panel-heading .pull-right > a, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown {
+      opacity: 0;
+      visibility: hidden; }
+      .card-view.panel.fullscreen > .panel-heading .pull-right > a.full-screen, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown.full-screen {
+        opacity: 1;
+        visibility: visible; }
+        .card-view.panel.fullscreen > .panel-heading .pull-right > a.full-screen i.zmdi-fullscreen::before, .card-view.panel.fullscreen > .panel-heading .pull-right .dropdown.full-screen i.zmdi-fullscreen::before {
+          content: "\f16c"; }
+		  
+		p.text-muted.txt-light.text-center.texte {
+    font-size: 27px;
+    font-weight: 600;
+}  
+	.input-group-addon {
+   background: #0f527f none repeat scroll 0 0;
+    border-color: #dedede;
+    border-radius: 0;
+    color: #ffffff;
+}	
+.full_width_all{ width:100%;}  
+		  
+.header-navbar .navbar-container ul.nav li i.ficon {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.user-name {
+    display: inline-block;
+    margin-bottom: .4rem;
+    margin-left: .2rem;
+    color: white;
+}		  
+		  
+.sm-data-box .data-wrap-left, .sm-data-box .data-wrap-right {
+   padding-top: 19px;
+    padding-bottom: 19px;
+    min-height: 99px;
+   
+}
+
+.pr-0 {
+    padding-right: 0px !important;
+}
+.pl-0 {
+    padding-left: 0px !important;
+}
+
+.sm-data-box .counter {
+        font-size: 16px; transition: all 0.2s; top:0px;
+}
+
+.block {
+        display: block;
+    font-size: 16px;
+    color: #0c476e;
+}
+.txt-dark {
+    color: #212121 !important;
+}
+
+.sm-data-box .data-wrap-right .data-right-rep-icon {
+    display: inline-block;
+    font-size: 40px;
+    padding-top: 10px;
+}
+.txt-light-grey {
+    color: #00a7e8ad;
+}
+  
+  
+  .fa_size{ font-size: 26px;
+    padding: 0px 0px;}
+	
+
+#file-export-admin-plus .card-header ,  	
+  #buy_History-plus .card-header ,  
+         #file-export .card-header ,  
+         #file-export-plus .card-header
+         {padding: 15px 0px 12px 33px !important;
+    border-bottom: 1px solid rgba(0,0,0,.06);}
+
+  
+    #file-export-admin-plus .card-header .heading-elements, .card-header .heading-elements-toggle , 
+    #buy_History-plus .card-header .heading-elements, .card-header .heading-elements-toggle , 
+  #file-export .card-header .heading-elements, .card-header .heading-elements-toggle , 
+  #file-export-plus .card-header .heading-elements, .card-header .heading-elements-toggle {
+    background-color: inherit;
+    position: absolute;
+    top: 12px;
+    right: 20px;
+}
+
+
+
+#file-export-admin-plus .btn ,
+  #buy_History-plus .btn ,
+#file-export .btn ,
+ #file-export-plus .btn {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 4px 8px;
+    font-size: 14px;
+    line-height: 1.25;
+    border-radius: .25rem;
+    -webkit-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+    -o-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    -moz-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+}
+
+
+#file-export-admin-plus .card-body ,
+  #buy_History-plus .card-body ,
+#file-export .card-body ,
+#file-export-plus .card-body {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1 1 auto;
+    -moz-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 10px 16px;
+}
+	
+	
+	
+ .card-view:hover {
+    box-shadow: 6px -3px 10px #1a3a6969;
+}
+	
+	
+	.fa{transition: all 0.2s;}
+	
+	.card-view:hover .fa{    color: white !important;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 50%;
+    border: 1px solid #0093db;
+    background-color: #0093db;}
+	
+		.card-view:hover .sm-data-box .counter{position: relative;
+    top: 10px;}
+	
+	
+	
+	.absol_anii {    bottom: 0px;
+    position: absolute;
+	 background-color: red;
+    width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 100px solid red;
+	    
+	}
+
+	
